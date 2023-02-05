@@ -1,5 +1,7 @@
 ### Hi there, I am Faruk Bera from Istanbul/Turkey 👋
-
+- 🔭 I’m currently working on data science courses.
+- 🌱 I’m currently learning Recommendation systems.
+- - 📫 How to reach me: farukberazulaloglu@gmail.com
 <!--
 **FBeraZulaloglu/FBeraZulaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
